@@ -15,4 +15,12 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\C#\Dating_app\Dating_app\Dating_app\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\C#\Dating_app\Dating_app\Dating_app\.editorconfig" />
+  </ItemGroup>
+
 </Project>
