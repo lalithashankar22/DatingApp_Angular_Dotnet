@@ -1,6 +1,9 @@
 using Dating_app.DB_Context;
 using Microsoft.EntityFrameworkCore;
 
+
+///dotnet new globaljson
+///dotnet new gitignore
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

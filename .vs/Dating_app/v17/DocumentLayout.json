@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\C#\\Dating_app\\Dating_app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{474712AA-31CF-4BE0-8168-6D7699A64A4C}|Dating_app\\Dating_app.csproj|c:\\c#\\dating_app\\dating_app\\dating_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{474712AA-31CF-4BE0-8168-6D7699A64A4C}|Dating_app\\Dating_app.csproj|solutionrelative:dating_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{474712AA-31CF-4BE0-8168-6D7699A64A4C}|Dating_app\\Dating_app.csproj|c:\\c#\\dating_app\\dating_app\\dating_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{474712AA-31CF-4BE0-8168-6D7699A64A4C}|Dating_app\\Dating_app.csproj|solutionrelative:dating_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474712AA-31CF-4BE0-8168-6D7699A64A4C}|Dating_app\\Dating_app.csproj|c:\\c#\\dating_app\\dating_app\\dating_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474712AA-31CF-4BE0-8168-6D7699A64A4C}|Dating_app\\Dating_app.csproj|solutionrelative:dating_app\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{474712AA-31CF-4BE0-8168-6D7699A64A4C}|Dating_app\\Dating_app.csproj|c:\\c#\\dating_app\\dating_app\\dating_app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,31 +66,30 @@
               "RelativeToolTip": "Dating_app\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-14T12:13:01.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:13:01.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\C#\\Dating_app\\Dating_app\\Dating_app\\Program.cs",
               "RelativeDocumentMoniker": "Dating_app\\Program.cs",
               "ToolTip": "C:\\C#\\Dating_app\\Dating_app\\Dating_app\\Program.cs",
               "RelativeToolTip": "Dating_app\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T12:13:05.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\C#\\Dating_app\\Dating_app\\Dating_app\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Dating_app\\Controllers\\UserController.cs",
               "ToolTip": "C:\\C#\\Dating_app\\Dating_app\\Dating_app\\Controllers\\UserController.cs",
               "RelativeToolTip": "Dating_app\\Controllers\\UserController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T11:06:39.33Z",
               "EditorCaption": ""
@@ -105,8 +104,7 @@
               "RelativeToolTip": "Dating_app\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T11:49:32.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T11:49:32.846Z"
             },
             {
               "$type": "Document",
@@ -118,8 +116,7 @@
               "RelativeToolTip": "Dating_app\\DB_Context\\DA_DBContextClass.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T06:28:40.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T06:28:40.685Z"
             },
             {
               "$type": "Document",
